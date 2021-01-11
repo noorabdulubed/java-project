@@ -1,3 +1,4 @@
+//welcome
 package jbr.springmvc;
 
 import org.springframework.stereotype.Controller;
